@@ -1,0 +1,6 @@
+{
+  "name": "MasjidKu — Sistem Informasi Masjid & Manajemen Keuangan DKM",
+  "description": "Portal informasi masjid, jadwal salat, kalender Hijriah, kalkulator & pembayaran zakat, transparansi kas terpisah, serta dashboard keuangan DKM berbasis RBAC.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
